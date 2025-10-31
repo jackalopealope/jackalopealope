@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jack
 - 👀 I’m interested in Programming (duh), psycology, neuroscience, FAANG style buisneses
-- 🌱 I’m currently learning TI-Basic
+- 🌱 I’m currently learning andvanced python
 - 💞️ I’m looking to collaborate on Anything really
 - 📫 How to reach me theunwindaccord@gmail.com
 - 😄 Pronouns: he/him
